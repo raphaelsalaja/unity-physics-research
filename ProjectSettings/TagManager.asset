@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Exit
+  - Game Controller
+  - Fragment
+  - Checkpoint
+  - CheckpointManager
+  - Trapball
+  - TrapPointEffector
+  - Deathfall
+  - Signboard
+  - Fragments
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Objects
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level Collisions
+    uniqueID: 1084946053
+    locked: 0
+  - name: Front Layer
+    uniqueID: 3584579309
+    locked: 0
+  - name: Background
+    uniqueID: 3779222513
+    locked: 0
+  - name: Middleground
+    uniqueID: 2815524229
+    locked: 0
+  - name: Foreground
+    uniqueID: 1081282207
+    locked: 0
+  - name: Traps
+    uniqueID: 2203573833
+    locked: 0
+  - name: Tilemap Back
+    uniqueID: 185704009
+    locked: 0
+  - name: Tilemap Front
+    uniqueID: 3182939829
+    locked: 0
+  - name: FX
+    uniqueID: 3198075171
+    locked: 0
+  - name: Enemy
+    uniqueID: 3010741859
+    locked: 0
+  - name: Player
+    uniqueID: 2495952435
+    locked: 0
+  - name: UI-GUI
+    uniqueID: 1415278261
+    locked: 0
+  - name: Mouse
+    uniqueID: 3178478593
+    locked: 0
+  - name: Collisions
+    uniqueID: 785049963
+    locked: 0

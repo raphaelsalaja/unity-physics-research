@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: FOUNTAIN
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -6914614411569335380, guid: 92a55b4ec6bd514438f5aec0dadefd96, type: 3}
+  - {fileID: 2697838366311131745, guid: 92a55b4ec6bd514438f5aec0dadefd96, type: 3}
+  - {fileID: 7138801228914371348, guid: 92a55b4ec6bd514438f5aec0dadefd96, type: 3}
+  - {fileID: -7067790582191266249, guid: 92a55b4ec6bd514438f5aec0dadefd96, type: 3}
+  - {fileID: -4829431512379250591, guid: 92a55b4ec6bd514438f5aec0dadefd96, type: 3}
+  - {fileID: -5079023871429284790, guid: 92a55b4ec6bd514438f5aec0dadefd96, type: 3}
+  - {fileID: 3631665594341182875, guid: 92a55b4ec6bd514438f5aec0dadefd96, type: 3}
+  - {fileID: 2620245444816322922, guid: 92a55b4ec6bd514438f5aec0dadefd96, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
